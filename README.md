@@ -14,7 +14,7 @@ Some basic financial terminolgy and calculations were introduced, which would be
 * Compound Interest
 * Accumulated Amount
 
-## Development
+### Development
 
 The program was coded in python. The user was required to input whether they wanted to calculate an investment, or a bond.
 
