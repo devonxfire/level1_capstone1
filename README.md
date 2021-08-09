@@ -1,5 +1,5 @@
 # Hyperion Development - Software Engineering Course
-## Level 1 - Capstone Project 1
+## Level 1 - Capstone Project 1 - Build a Financial Calculator
 
 ### Overview of this Task
 
